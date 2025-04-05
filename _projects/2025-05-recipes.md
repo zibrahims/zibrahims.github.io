@@ -12,6 +12,8 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Asia
    * [Bangla](#bangla)
    * [Thai](#thai)
+   * [Chinese](#chinese)
+   * [Japanese and Korean](#japanese-and-korean)
 1. North American
    * [Tacos](#tacos)
    * [Caribbean](#caribbean)
@@ -49,6 +51,10 @@ And:
 1. [Kichuri](/bangla-kichuri)
 1. [Eggplant](/bangla-eggplant)
 1. [Tumeric Cauliflower](/bangla-tumeric-cauliflower)
+
+### Chinese
+
+1. [Stir Fry](/chinese-stir-fry)
 
 ### Japanese and Korean
 
