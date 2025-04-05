@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/italian/italian-bolognese-01.jpg)
+![ingredients](/images/recipes/italian/italian-bolognese-01.jpg)
 
 1. Ground Beef/Turkey
 1. Pasta (and pasta water)
@@ -27,7 +27,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![cookedmeat](/images/italian/italian-bolognese-02.jpg)
+![cookedmeat](/images/recipes/italian/italian-bolognese-02.jpg)
 ![mixedingredients](/images/italian/italian-bolognese-03.jpg)
 ![pasta](/images/italian/italian-bolognese-04.jpg)
 ![tomato](/images/italian/italian-bolognese-05.jpg)

@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/tacos/tacos-cod-01.jpg)
+![ingredients](/images/recipes/tacos/tacos-cod-01.jpg)
 
 1. Cod
 1. Black habanero sauce*
@@ -32,8 +32,8 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Add lime and black habanero sauce to enjoy
 
 ![Cooked Cod](/images/tacos/tacos-cod-02.jpg)
-![Sauce](/images/tacos/tacos-cod-03.jpg)
-![Fixings](/images/tacos/tacos-cod-04.jpg)
+![Sauce](/images/recipes/tacos/tacos-cod-03.jpg)
+![Fixings](/images/recipes/tacos/tacos-cod-04.jpg)
 
 
 

@@ -9,8 +9,8 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/pasta/pasta-feta-cheese-pasta-01.jpg)
-![baked](/images/pasta/pasta-feta-cheese-pasta-02.jpg)
+![ingredients](/images/recipes/pasta/pasta-feta-cheese-pasta-01.jpg)
+![baked](/images/recipes/pasta/pasta-feta-cheese-pasta-02.jpg)
 
 1. Feta Cheese (2 x low fat)
 1. Olive Oil
@@ -25,7 +25,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![pasta](/images/pasta/pasta-feta-cheese-pasta-03.jpg)
+![pasta](/images/recipes/pasta/pasta-feta-cheese-pasta-03.jpg)
 
 1. Cut all the cherry tomatoes in half and put the feta cheese blocks inside
 1. Add all spices and mushrooms

@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/bangla/bangla-dahl-01.jpg)
+![ingredients](/images/recipes/bangla/bangla-dahl-01.jpg)
 
 1. Red Lentils
 1. Spices

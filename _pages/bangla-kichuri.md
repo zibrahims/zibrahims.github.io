@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/bangla/bangla-kichuri-01.jpg)
+![ingredients](/images/recipes/bangla/bangla-kichuri-01.jpg)
 
 1. Oil (3-4 tbsp)
 1. Rice (1.5 cup)

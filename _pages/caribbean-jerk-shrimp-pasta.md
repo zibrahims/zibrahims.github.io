@@ -9,8 +9,8 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![spices](/images/caribbean/caribbean-jerk-shrimp-pasta-01.jpg)
-![sauce](/images/caribbean/caribbean-jerk-shrimp-pasta-02.jpg)
+![spices](/images/recipes/caribbean/caribbean-jerk-shrimp-pasta-01.jpg)
+![sauce](/images/recipes/caribbean/caribbean-jerk-shrimp-pasta-02.jpg)
 
 1. Jerk Paste (Hot)
 1. Sauce Base
@@ -26,8 +26,8 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![shrimp](/images/caribbean/caribbean-jerk-shrimp-pasta-03.jpg)
-![mixture](/images/caribbean/caribbean-jerk-shrimp-pasta-04.jpg)
+![shrimp](/images/recipes/caribbean/caribbean-jerk-shrimp-pasta-03.jpg)
+![mixture](/images/recipes/caribbean/caribbean-jerk-shrimp-pasta-04.jpg)
 
 1. Mix the shrimp with the jerk seasoning and cook on a pan (2 min./side)
 1. In another pan, cook the Sauce Base ingredients

@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![onions](/images/legumes/legumes-lentil-curry-01.jpg)
+![onions](/images/recipes/legumes/legumes-lentil-curry-01.jpg)
 
 1. Brown Lentils (1 cup dry)
 1. Coconut Milk (half can)
@@ -37,11 +37,11 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Cook on high until all the water has almost evaporated
 1. If lentils are too hard, add more water and set to simmer
 
-![onions](/images/legumes/legumes-lentil-curry-02.jpg)
-![jerkmix](/images/legumes/legumes-lentil-curry-03.jpg)
-![tomatoescoconutmilk](/images/legumes/legumes-lentil-curry-04.jpg)
-![cooking](/images/legumes/legumes-lentil-curry-05.jpg)
-![final](/images/legumes/legumes-lentil-curry-06.jpg)
+![onions](/images/recipes/legumes/legumes-lentil-curry-02.jpg)
+![jerkmix](/images/recipes/legumes/legumes-lentil-curry-03.jpg)
+![tomatoescoconutmilk](/images/recipes/legumes/legumes-lentil-curry-04.jpg)
+![cooking](/images/recipes/legumes/legumes-lentil-curry-05.jpg)
+![final](/images/recipes/legumes/legumes-lentil-curry-06.jpg)
 
 
 ## Modifications

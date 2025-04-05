@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/jp-and-kor/uncle-tammys-noodles-01.jpg)
+![ingredients](/images/recipes/jp-and-kor/uncle-tammys-noodles-01.jpg)
 
 1. Rice Sticks
 1. Chilli Oil
@@ -22,9 +22,9 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![greens](/images/jp-and-kor/uncle-tammys-noodles/images/jp-and-kor/uncle-tammys-noodles-03.jpg)
-![rice sticks](/images/jp-and-kor/uncle-tammys-noodles-04.jpg)
-![soup base](/images/jp-and-kor/uncle-tammys-noodles-02.jpg)
+![greens](/images/recipes/jp-and-kor/uncle-tammys-noodles/images/jp-and-kor/uncle-tammys-noodles-03.jpg)
+![rice sticks](/images/recipes/jp-and-kor/uncle-tammys-noodles-04.jpg)
+![soup base](/images/recipes/jp-and-kor/uncle-tammys-noodles-02.jpg)
 
 1. Blanch greens and set water/greens aside
 1. Put rice sticks in a bowl of hot water for 15 min
@@ -37,4 +37,4 @@ featured_image: '/images/demo/demo-square.jpg'
    1. Add water from blanched greeens + rice sticks
 1. Mix together
 
-![uncle tammy](/images/jp-and-kor/uncle-tammys-noodles-05.jpg)
+![uncle tammy](/images/recipes/jp-and-kor/uncle-tammys-noodles-05.jpg)

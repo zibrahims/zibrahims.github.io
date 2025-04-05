@@ -39,4 +39,4 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Examples
 
-![chickpea salad](/images/vegetarian/vegetarian-chick-pea-salad-01.jpg)
+![chickpea salad](/images/recipes/vegetarian/vegetarian-chick-pea-salad-01.jpg)

@@ -9,8 +9,8 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients1](/images/italian/italian-mushroom-pasta-00.jpg)
-![ingredients1](/images/italian/italian-mushroom-pasta-01.jpg)
+![ingredients1](/images/recipes/italian/italian-mushroom-pasta-00.jpg)
+![ingredients1](/images/recipes/italian/italian-mushroom-pasta-01.jpg)
 
 1. Mushroom (multiple types)
 1. Shallots + Onion
@@ -25,9 +25,9 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![onions](/images/italian/italian-mushroom-pasta-02.jpg)
-![mushroombuttter](/images/italian/italian-mushroom-pasta-03.jpg)
-![mushroombrowned](/images/italian/italian-mushroom-pasta-04.jpg)
+![onions](/images/recipes/italian/italian-mushroom-pasta-02.jpg)
+![mushroombuttter](/images/recipes/italian/italian-mushroom-pasta-03.jpg)
+![mushroombrowned](/images/recipes/italian/italian-mushroom-pasta-04.jpg)
 ![mixed](/images/italian/italian-mushroom-pasta-05.jpg)
 
 1. In 2 separate pans
@@ -35,4 +35,4 @@ featured_image: '/images/demo/demo-square.jpg'
    * Brown mushrooms (10 min)
 1. Make pasta and mix everything together with cream
 
-![final](/images/italian/italian-mushroom-pasta-06.jpg)
+![final](/images/recipes/italian/italian-mushroom-pasta-06.jpg)

@@ -9,8 +9,8 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/bangla/bangla-ranna-chicken-01.jpg)
-![meatandonion](/images/bangla/bangla-ranna-chicken-02.jpg)
+![ingredients](/images/recipes/bangla/bangla-ranna-chicken-01.jpg)
+![meatandonion](/images/recipes/bangla/bangla-ranna-chicken-02.jpg)
 
 1. Chicken
 1. Jhol Base
@@ -41,17 +41,17 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions (Rice Cooker - 20 min prep.)
 
-![mix](/images/bangla/bangla-ranna-chicken-03.jpg)
+![mix](/images/bangla/recipes/bangla-ranna-chicken-03.jpg)
 
 1. Mix everything in a rice cooker and cook
 1. As water dries out, add more water until meat is fully cooked (45 min)
 
 ## Modifications
 
-![potatoes](/images/bangla/bangla-ranna-chicken-04.jpg)
+![potatoes](/images/recipes/bangla/bangla-ranna-chicken-04.jpg)
 
 - With 10 min. to go add potatoes and (if beef) tomatoes
 
-![moroccan](/images/bangla//bangla-ranna-chicken-05.jpg)
+![moroccan](/images/recipes/bangla//bangla-ranna-chicken-05.jpg)
 
 - If cooking Tagine, add the Moroccan vegetables from the start

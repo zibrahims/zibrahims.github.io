@@ -9,8 +9,8 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![spices](/images/salads/salads-terroni-oyster-mushroom-arugula-01.jpg)
-![sauce](/images/salads/salads-terroni-oyster-mushroom-arugula-02.jpg)
+![spices](/images/recipes/salads/salads-terroni-oyster-mushroom-arugula-01.jpg)
+![sauce](/images/recipes/salads/salads-terroni-oyster-mushroom-arugula-02.jpg)
 
 1. Oyster Mushroom
 1. Arugula
@@ -25,8 +25,8 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![shrimp](/images/salads/salads-terroni-oyster-mushroom-arugula-03.jpg)
-![mixture](/images/salads/salads-terroni-oyster-mushroom-arugula-04.jpg)
+![shrimp](/images/recipes/salads/salads-terroni-oyster-mushroom-arugula-03.jpg)
+![mixture](/images/recipes/salads/salads-terroni-oyster-mushroom-arugula-04.jpg)
 
 1. Coat all the oyster mushrooms with the marinade (don't overdo the balsamic or oil)
 1. Bake the mushrooms at 400F for 15 min. Turn over and bake at 450F for 2 min until **crispy**.

@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/jp-and-kor/soy-ramen-02.jpg)
+![ingredients](/images/recipes/jp-and-kor/soy-ramen-02.jpg)
 
 1. Ramen Noodles
 1. Dumplings
@@ -21,8 +21,8 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![soybean](/images/jp-and-kor/soy-ramen-01.jpg)
-![final](/images/jp-and-kor/soy-ramen-03.jpg)
+![soybean](/images/recipes/jp-and-kor/soy-ramen-01.jpg)
+![final](/images/recipes/jp-and-kor/soy-ramen-03.jpg)
 
 1. In 3 pots:
    1. Cook ramen noodles

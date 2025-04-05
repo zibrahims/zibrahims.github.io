@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/jp-and-kor/ginger-shallot-soba-01.jpg)
+![ingredients](/images/recipes/jp-and-kor/ginger-shallot-soba-01.jpg)
 
 1. 2 Ginger Pieces
 1. 2 Shallots
@@ -25,9 +25,9 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![greens](/images/jp-and-kor/ginger-shallot-soba-02.jpg)
-![rice sticks](/images/jp-and-kor/ginger-shallot-soba-03.jpg)
-![soup base](/images/jp-and-kor/ginger-shallot-soba-04.jpg)
+![greens](/images/recipes/jp-and-kor/ginger-shallot-soba-02.jpg)
+![rice sticks](/images/recipes/jp-and-kor/ginger-shallot-soba-03.jpg)
+![soup base](/images/recipes/jp-and-kor/ginger-shallot-soba-04.jpg)
 
 1. Cut up 2 pieces of ginger and 2 pieces of shallots
    1. Chunks (for broth)
@@ -51,4 +51,4 @@ featured_image: '/images/demo/demo-square.jpg'
       1. 1 tsp of salt
 1. Mix the broth and soba. Add the toppings and chilli oil
 
-<!-- ![Ginger Shallot Soba](/images/jp-and-kor/ginger-shallot-soba-05.jpg) -->
+<!-- ![Ginger Shallot Soba](/images/recipes/jp-and-kor/ginger-shallot-soba-05.jpg) -->

@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/thai/thai-pad-gra-pao-01.jpg)
+![ingredients](/images/recipes/thai/thai-pad-gra-pao-01.jpg)
 
 1. Ground Meat (beef or turkey)
 1. Blue Elephant Pad Gra Pao sauce
@@ -20,7 +20,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions (2 servings)
 
-![meatandshallots](/images/thai/thai-pad-gra-pao-02.jpg)
+![meatandshallots](/images/recipes/thai/thai-pad-gra-pao-02.jpg)
 
 1. Start cooking rice
 1. Fry ground meat in pan

@@ -9,8 +9,8 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![sauce](/images/thai/thai-pad-thai-01.jpg)
-![ingredients](/images/thai/thai-pad-thai-02.jpg)
+![sauce](/images/recipes/thai/thai-pad-thai-01.jpg)
+![ingredients](/images/recipes/thai/thai-pad-thai-02.jpg)
 
 1. Pad Thai Sauce
    * Tamarind sauce

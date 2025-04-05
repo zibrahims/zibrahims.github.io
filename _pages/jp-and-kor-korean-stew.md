@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/jp-and-kor/korean-stew-01.jpg)
+![ingredients](/images/recipes/jp-and-kor/korean-stew-01.jpg)
 
 1. Kimchi Stew
 1. Soft Tofu
@@ -18,7 +18,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![final](/images/jp-and-kor/korean-stew-02.jpg)
+![final](/images/recipes/jp-and-kor/korean-stew-02.jpg)
 
 1. Cook the shrimp first
 1. Mix everything and toss in the shrimp

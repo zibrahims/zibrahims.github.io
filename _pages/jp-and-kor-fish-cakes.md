@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/jp-and-kor/fish-cakes-01.jpg)
+![ingredients](/images/recipes/jp-and-kor/fish-cakes-01.jpg)
 
 1. Cod (or other white fish)
 1. Corn Starch
@@ -19,7 +19,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![fishcakes](/images/jp-and-kor/fish-cakes-02.jpg)
+![fishcakes](/images/recipes/jp-and-kor/fish-cakes-02.jpg)
 
 1. Dice the cod and onions
 1. Mix **all** the ingredients in a bowl.

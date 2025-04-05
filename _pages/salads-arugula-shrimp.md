@@ -7,7 +7,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/salads/salads-arugula-shrimp-01.jpg)
+![ingredients](/images/recipes/salads/salads-arugula-shrimp-01.jpg)
 
 1. Shrimp
 1. Arugula
@@ -18,7 +18,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![salad](/images/salads/salads-arugula-shrimp-02.jpg)
+![salad](/images/recipes/salads/salads-arugula-shrimp-02.jpg)
 
 1. Cook the shrimp in a pan, flipping 2 min./side
 1. Mix all the ingreedients in a bowl

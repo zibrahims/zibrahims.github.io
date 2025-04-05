@@ -9,8 +9,8 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Ingredients
 
-![ingredients](/images/vegetarian/vegetarian-eggplant-parmesan-01.jpg)
-![bakingsheet](/images/vegetarian/vegetarian-eggplant-parmesan-02.jpg)
+![ingredients](/images/recipes/vegetarian/vegetarian-eggplant-parmesan-01.jpg)
+![bakingsheet](/images/recipes/vegetarian/vegetarian-eggplant-parmesan-02.jpg)
 
 1. Eggplant
 1. Breadcrumbs (Panko)
@@ -20,7 +20,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-![eggparm](/images/vegetarian/vegetarian-eggplant-parmesan-03.jpg)
+![eggparm](/images/recipes/vegetarian/vegetarian-eggplant-parmesan-03.jpg)
 
 1. Dip the eggplant pieces in the egg yolk and cover with breadcrumbs
 1. Dollop pasta sauce on a aluminum bedpan and drop in the covered eggplant pieces
