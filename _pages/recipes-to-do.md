@@ -11,3 +11,5 @@ featured_image: /images/demo/demo-portrait.jpg
 * Udon broth with noodles
 * Homemade chicken noodle soup 
 * Pad Lee Mao (Hot Thai Kitchen)
+* Scallop and Chives Pasta
+* Crispy Branzino (Cornstarch)
