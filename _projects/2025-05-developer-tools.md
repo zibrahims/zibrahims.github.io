@@ -1,6 +1,6 @@
 ---
-title: 'Developer Tools'
-subtitle: 'Developer Tools'
+title: 'High Tech Careers'
+subtitle: 'Habits, Tips, Tools'
 date: 2025-01-01 00:00:00
 featured_image: '/images/sw-screenshot.jpg'
 ---
@@ -9,7 +9,20 @@ featured_image: '/images/sw-screenshot.jpg'
 
 ## Table of Contents
 
-1. Installation and Tools
-   * [New Installs](#new installs)
+1. [Work Best Practices](#work-best-practices)
+1. SW Developer Best Practices
+   * [Best Practices](/sw-developer-best-practices)
+   * [New Installs](#new-installs)
+
+## Work Best Practices
+
+- Clear all your messages before starting your regulat work schedule
+  - Late Afternoon: Jobs in the same time zone as you
+  - Early Morning: Jobs in the time zones ahead of you
+
+- Clear Slack by going through the following:
+  - Open `Unreads` view (⌘ `Shift` A) and keyboard through
+  - Browse DMs (⌘ `Shift` K)
+  - Browse DMs (⌘ `Shift` M)
 
 ## New Installs

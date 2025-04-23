@@ -1,0 +1,3 @@
+# Git
+alias gs="git status"
+alias gc="git commit" #Commit staged files with comment
