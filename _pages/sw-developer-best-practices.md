@@ -9,8 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 # SW Developer Best Practices
 
-## Aliases for Common Commands
+## Tool Chains
 
-- Keep aliases in your shell RC file (e.g. `~/.bashrc`, `~/.zshrc`, etc.)
-  - [Work-Independent Aliases](/swe.aliases)
-
+* iTerm2: Prefer CLI to click-ops 
+* CLion (C++): Prefer pre-set IDE with following [setup](/career_sw_IDE_settings.md)
