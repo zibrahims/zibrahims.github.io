@@ -24,6 +24,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Meat](#meat)
    * [Salads](#salads)
    * [Pasta](#pasta)
+   * [Fish](#fish)
 1. Condiments
    * [Sauces](#sauces)
 
@@ -115,6 +116,10 @@ And:
 ### Sauces
 
 1. [Green Goddess](/sauces-green-goddess)
+
+### Fish
+
+1. [Pan Seared Branzino](/fish-pan-seared-branzino)
 
 
 
