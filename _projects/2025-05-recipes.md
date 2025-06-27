@@ -92,6 +92,7 @@ And:
 1. [Green Curry](/thai-green-curry)
 1. [Khao Soi](/thai-khao-soi)
 1. [Pad Thai](/thai-pad-thai)
+1. [Pad Kee Mao](/thai-pad-kee-mao)
 
 ### Tofu and Tempeh
 
