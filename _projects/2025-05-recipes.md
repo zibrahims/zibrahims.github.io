@@ -80,6 +80,7 @@ And:
 ### Tacos
 
 1. [Cod Tacos](/tacos-cod)
+1. [Beyond Beef Tacos](/tacos-beyond-beef)
 
 ### Meat
 
