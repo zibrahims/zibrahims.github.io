@@ -2,3 +2,8 @@
 alias gs="git status"
 alias gc="git commit" #Commit staged files with comment
 alias gcan="git commit --amend --no-edit" # Amend last commit without editing message
+
+# Open with IDEs
+alias ocl="open -a \"Clion.app\" "
+alias opy="open -a \"PyCharm.app\" "
+alias ovs="open -a \"Visual Studio Code.app\" "
