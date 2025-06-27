@@ -14,6 +14,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Thai](#thai)
    * [Chinese](#chinese)
    * [Japanese and Korean](#japanese-and-korean)
+   * [Mediterranean](#mediterranean)
 1. North American
    * [Tacos](#tacos)
    * [Caribbean](#caribbean)
@@ -122,6 +123,9 @@ And:
 
 1. [Pan Seared Branzino](/fish-pan-seared-branzino)
 
+### Mediterranean
+
+1. [Hummus](/mediterranean-hummus)
 
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
