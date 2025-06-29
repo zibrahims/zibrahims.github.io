@@ -28,6 +28,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Fish](#fish)
 1. Condiments
    * [Sauces](#sauces)
+   * [Pickling](#pickling)
 
 
 ## Demo content
@@ -120,6 +121,10 @@ And:
 ### Sauces
 
 1. [Green Goddess](/sauces-green-goddess)
+
+### Pickling
+
+1. [Pickled Red Onions](/condiments-pickled-onion)
 
 ### Fish
 
