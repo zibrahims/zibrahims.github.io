@@ -7,3 +7,5 @@ alias gcan="git commit --amend --no-edit" # Amend last commit without editing me
 alias ocl="open -a \"Clion.app\" "
 alias opy="open -a \"PyCharm.app\" "
 alias ovs="open -a \"Visual Studio Code.app\" "
+
+# Open in GUIs
