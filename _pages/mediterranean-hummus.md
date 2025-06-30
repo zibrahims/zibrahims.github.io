@@ -12,6 +12,7 @@ featured_image: '/images/demo/demo-square.jpg'
 ![ingredients](/images/recipes/bangla/bangla-dahl-01.jpg)
 
 1. Soaked Chick Pea (half cup dry)
+1. Tahini (1 tbsp)
 1. Spices
    * Salt
    * Cumin
@@ -25,7 +26,7 @@ featured_image: '/images/demo/demo-square.jpg'
 ## Instructions
 
 1. Wash soaked chickpeas in cold water to remove skin
-1. Blend with garlic, lemon, salt and cumin
+1. Blend with tahini, garlic, lemon, salt and cumin
 1. Add cold water until smooth
 1. Garnish with olive oil, zattar, paprika 
 
