@@ -11,12 +11,13 @@ featured_image: '/images/sw-screenshot.jpg'
 
 1. [Work Best Practices](#work-best-practices)
 1. SW Developer Best Practices
+   * [New Installs](/career-swe-new-installs)
+   * [Aliases](/swe.aliases)
    * [Best Practices](/sw-developer-best-practices)
-   * [New Installs](#new-installs)
 
 ## Work Best Practices
 
-- Clear all your messages before starting your regulat work schedule
+- Clear all your messages before starting your regular work schedule
   - Late Afternoon: Jobs in the same time zone as you
   - Early Morning: Jobs in the time zones ahead of you
 
@@ -24,5 +25,3 @@ featured_image: '/images/sw-screenshot.jpg'
   - Open `Unreads` view (⌘ `Shift` A) and keyboard through
   - Browse DMs (⌘ `Shift` K)
   - Browse DMs (⌘ `Shift` M)
-
-## New Installs

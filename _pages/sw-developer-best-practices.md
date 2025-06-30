@@ -12,4 +12,4 @@ featured_image: '/images/demo/demo-square.jpg'
 ## Tool Chains
 
 * iTerm2: Prefer CLI to click-ops 
-* CLion (C++): Prefer pre-set IDE with following [setup](/career_sw_IDE_settings.md)
+* CLion (C++) / PyCharm: Prefer pre-set IDE with following [setup](/career_sw_IDE_settings)

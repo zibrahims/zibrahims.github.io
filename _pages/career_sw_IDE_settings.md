@@ -9,6 +9,8 @@ featured_image: /images/demo/demo-portrait.jpg
 
 # IDE Settings
 
+- Prefer Jetbrains IDEs which have built-in plugins are preferred to downloading your own plugins and tinkering like Vim. 
+
 ## File Explorer
 
 * Always Select Opened File: Locate current file in File Explorer
