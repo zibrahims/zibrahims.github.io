@@ -9,7 +9,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 # Package manager
 
-- [Brew Package Manager List](/br)
+- [TODO: Brew Package Manager List](/brew-list)
 
 # Latex
 

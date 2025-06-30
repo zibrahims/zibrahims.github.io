@@ -11,6 +11,12 @@ git config --global user.email "your.email@example.com"
 
 ## Repository Commits to Main
 
+The following have been set up to keep files up to date:
+
+- Gitignore to ignore index files
+- SW files are in the repository root. pre-commit hook to copy them to `_site`
+- TODO: Append pre-commit hook for images
+
 In order to upload files to the hosted website and back them up physically, a few helper scripts have been written. They should be executed as follows:
 
 1. Commit & Copy **One** Markdown Files: `gcommit-md-xxx`
