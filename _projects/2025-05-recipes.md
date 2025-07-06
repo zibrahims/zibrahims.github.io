@@ -56,6 +56,7 @@ And:
 1. [Kichuri](/bangla-kichuri)
 1. [Eggplant](/bangla-eggplant)
 1. [Tumeric Cauliflower](/bangla-tumeric-cauliflower)
+1. [Aloo Ghobi](/bangla-aloo-ghobi)
 
 ### Chinese
 
