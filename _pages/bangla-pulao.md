@@ -14,16 +14,12 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Basmati Rice
 1. Ghee
 1. Spices
-   * Salt
+   * Salt (1/2 tsp per 1 cup dry rice)
    * Diced Ginger
    * Garlic
    * Cinnamon
    * Cardamom
    * Bay Leaf
-1. Optional Toppings
-   * (Red) Onions
-   * Green Chillis
-   * Parsley
 
 ## Instructions
 
