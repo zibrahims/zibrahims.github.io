@@ -70,6 +70,7 @@ And:
 1. [Ginger Shallot Soba](/jp-and-kor-ginger-shallot-soba)
 1. [Korean Stew](/jp-and-kor-korean-stew)
 1. [Soy Ramen](/jp-and-kor-soy-ramen)
+1. [Momofuku Noodles](/jp-and-kor-momofuku)
 
 ### Caribbean
 
@@ -121,6 +122,7 @@ And:
 
 1. [Egg Parmesan](/vegetarian-eggplant-parmesan)
 1. [Chick Pea Salad](/vegetarian-chick-pea-salad)
+1. [Lentil Pasta](/vegetarian-lentil-pasta)
 
 ### Sauces
 
