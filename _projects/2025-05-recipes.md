@@ -124,6 +124,7 @@ And:
 1. [Chick Pea Salad](/vegetarian-chick-pea-salad)
 1. [Lentil Pasta](/vegetarian-lentil-pasta)
 1. [Soft Tofu Mac and Cheese](/vegetarian-macaroni-cheese)
+1. [Roast Potatoes](/vegetarian-roast-potatoes)
 
 ### Sauces
 

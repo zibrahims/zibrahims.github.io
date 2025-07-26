@@ -11,7 +11,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ![ingredients](/images/recipes/bangla/bangla-dahl-01.jpg)
 
-1. Rice Flakes
+1. Rice Flakes - Cock brand
 1. Thai Basil
 1. Garlic
 1. Carrots
