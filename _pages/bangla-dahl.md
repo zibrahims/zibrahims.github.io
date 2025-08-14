@@ -11,22 +11,29 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ![ingredients](/images/recipes/bangla/bangla-dahl-01.jpg)
 
-1. Red Lentils
+1. Red Lentils (1.5 rice cooker cups)
+1. Water (3.5 regular cups)
 1. Spices
    * Salt
+   * Garlic
+   * Onion
    * Tumeric
    * Chilli powder
    * Cumin
-1. Optional Toppings
-   * (Red) Onions
    * Green Chillis
+1. Oil
+1. Optional Toppings
+   * Tomatoes or Green Mangoes
+   * Fried Onions
    * Parsley
 
 ## Instructions
 
-1. Wash lentils and cook in a pot of water
-1. Add all the spices once the water is boiling
-1. Either cook at low or after 5 min. scoop up the foam
+1. Wash lentils (6-7 times) and cook in a pot of water
+1. Add all the spices + oil once the water is boiling
+1. Add tomatoes or green mangoes midway
+1. Cook until lentils are fully cooked
+1. Add parsely and fried onions at the end
 1. Serve hot with rice
 
 ## Modifications

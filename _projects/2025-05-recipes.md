@@ -9,6 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Table of Contents
 
+1. [Kids](#kids)
 1. Asia
    * [Bangla](#bangla)
    * [Thai](#thai)
@@ -33,21 +34,35 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Smoothies](#smoothies)
 
 
-## Demo content
+### Kids
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
+1. PB and Jam Sandwich
+1. Pasta Salad
+1. Chicken or Egg Salad
+1. Hot Dog (sliced or warm)
+1. Macaroni
+   1. [Macaroni and Cheese](/pasta-macaroni-cheese)
+   1. [Vegetarian Macaroni](/vegetarian-macaroni-cheese)
+1. Deli Sandwich
+1. Dumplings
+1. Egg Strips
+1. Hard Boiled Eggs
+1. Pancakes or French Toast
+1. Wrap
+   1. Chicken Quesadillas
+   1. Egg Wrap
+   1. Vegetable Wrap
+1. Snacks
+   1. Edamame
+   1. Dragonfruit
+   1. Berries and Cherries
+   1. Apple Slices
+   1. Cucumbers / Cherry Tomatoes
+   1. Cheese
+   1. Carrots
+   1. Plum
+   1. Oranges
+   1. Green Beans
 
 ### Bangla
 
@@ -125,6 +140,7 @@ And:
 1. [Lentil Pasta](/vegetarian-lentil-pasta)
 1. [Soft Tofu Mac and Cheese](/vegetarian-macaroni-cheese)
 1. [Roast Potatoes](/vegetarian-roast-potatoes)
+1. [Spaghetti Squash](/vegetarian-spaghetti-squash)
 
 ### Sauces
 
@@ -133,6 +149,7 @@ And:
 ### Pickling
 
 1. [Pickled Red Onions](/condiments-pickled-onion)
+1. [Pickled Turnips](/condiments-pickled-turnips)
 
 ### Fish
 
