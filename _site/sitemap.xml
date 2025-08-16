@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2025-08-15T22:55:57-04:00</lastmod>
+<lastmod>2025-08-15T23:06:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/bangla-aloo-ghobi</loc>
@@ -34,11 +34,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/career-sw-ide-settings</loc>
-<lastmod>2025-08-15T22:55:57-04:00</lastmod>
+<lastmod>2025-08-15T23:06:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/career-swe-new-installs</loc>
-<lastmod>2025-08-15T22:55:57-04:00</lastmod>
+<lastmod>2025-08-15T23:06:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/caribbean-jerk-shrimp-pasta</loc>
@@ -53,12 +53,16 @@
 <lastmod>2018-06-29T20:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/condiments-pickled-beets-turnips</loc>
+<lastmod>2018-06-29T20:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/condiments-pickled-onion</loc>
 <lastmod>2018-06-29T20:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/contact</loc>
-<lastmod>2025-08-15T22:55:57-04:00</lastmod>
+<lastmod>2025-08-15T23:06:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/drinks-nutbar-smoothie</loc>
@@ -134,7 +138,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/recipes-to-do</loc>
-<lastmod>2025-08-15T22:55:57-04:00</lastmod>
+<lastmod>2025-08-15T23:06:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/salads-arugula-shrimp</loc>
@@ -190,7 +194,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/thanks</loc>
-<lastmod>2025-08-15T22:55:57-04:00</lastmod>
+<lastmod>2025-08-15T23:06:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tofu-cumin-tofu-tacos</loc>
@@ -198,7 +202,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/vegetarian-abigails-falafel-bowl</loc>
-<lastmod>2025-08-15T22:55:57-04:00</lastmod>
+<lastmod>2025-08-15T23:06:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/vegetarian-buckwheat-pilaf</loc>
