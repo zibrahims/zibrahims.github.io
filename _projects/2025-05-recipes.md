@@ -141,6 +141,8 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Soft Tofu Mac and Cheese](/vegetarian-macaroni-cheese)
 1. [Roast Potatoes](/vegetarian-roast-potatoes)
 1. [Spaghetti Squash](/vegetarian-spaghetti-squash)
+1. [Abigail's Falafel Bowl](/vegetarian-abigails-falafel-bowl)
+1. [Buckwheat Pilaf](/vegetarian-buckwheat-pilaf)
 
 ### Sauces
 
