@@ -20,7 +20,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * Tumeric
    * Chilli powder
    * Cumin
-   * Green Chillis
+   * Green Chillis (whole for kids, slitted for adults)
 1. Oil
 1. Optional Toppings
    * Tomatoes or Green Mangoes
