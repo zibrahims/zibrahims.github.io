@@ -143,6 +143,8 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Spaghetti Squash](/vegetarian-spaghetti-squash)
 1. [Abigail's Falafel Bowl](/vegetarian-abigails-falafel-bowl)
 1. [Buckwheat Pilaf](/vegetarian-buckwheat-pilaf)
+1. [Grilled Zucchini](/vegetarian-grilled-zucchini)
+1. [Soba Noodles](/vegetarian-soba-noodles)
 
 ### Sauces
 
