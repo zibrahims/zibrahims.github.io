@@ -32,6 +32,8 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Pickling](#pickling)
 1. Drinks
    * [Smoothies](#smoothies)
+1. Desserts
+   * [Cakes](#cakes)
 
 
 ### Kids
@@ -77,6 +79,7 @@ featured_image: '/images/demo/demo-square.jpg'
 ### Chinese
 
 1. [Stir Fry](/chinese-stir-fry)
+1. [Beef and Broccoli](/chinese-beef-and-broccoli)
 
 ### Japanese and Korean
 
@@ -166,6 +169,11 @@ featured_image: '/images/demo/demo-square.jpg'
 ### Smoothies
 
 1. [Nutbar Smoothie](/drinks-nutbar-smoothie)
+
+### Cakes
+
+1. [Poffertjes](/dessert-poffertjes)
+
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
