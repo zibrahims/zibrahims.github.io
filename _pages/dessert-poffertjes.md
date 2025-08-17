@@ -11,7 +11,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ![ingredients](/images/recipes/bangla/bangla-dahl-01.jpg)
 
-1. Poffertjes mix (400 g)
+1. Poffertjes mix (400 g, 550 mL)
 1. Milk (800 mL)
 1. Eggs (2x)
 1. Oil (3 tbsp)
@@ -21,9 +21,9 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-1. Mix the batter with 800 mL of milk, 2 eggs and 3 tbsp of oil
+1. Mix the batter (550 mL) with 800 mL of milk, 2 eggs and 3 tbsp of oil
 1. Grease pan with butter, so the poffertjes are easy to flip
-1. Pour batter into poffertjes pan
+1. Pour batter into poffertjes pan using ice cream scoop
 1. Once the bottom of each poffertjes is brown, flip to finish
 1. Add powdered sugar
 
