@@ -25,7 +25,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Grease pan with butter, so the poffertjes are easy to flip
 1. Pour batter into poffertjes pan using ice cream scoop
 1. Once the bottom of each poffertjes is brown, flip to finish
-1. Add powdered sugar
+1. Add shaved butter and powdered sugar on top to finish 
 
 ## Modifications
 
