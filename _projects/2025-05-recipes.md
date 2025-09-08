@@ -27,6 +27,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Salads](#salads)
    * [Pasta](#pasta)
    * [Fish](#fish)
+   * [Dumplings](#dumplings)
 1. Condiments
    * [Sauces](#sauces)
    * [Pickling](#pickling)
@@ -40,6 +41,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 1. PB and Jam Sandwich
 1. Pasta Salad
+1. Dry Pesto Pasta
 1. Chicken or Egg Salad
 1. Hot Dog (sliced or warm)
 1. Macaroni
@@ -47,6 +49,7 @@ featured_image: '/images/demo/demo-square.jpg'
    1. [Vegetarian Macaroni](/vegetarian-macaroni-cheese)
 1. Deli Sandwich
 1. Dumplings
+1. Filled Bagel
 1. Egg Strips
 1. Hard Boiled Eggs
 1. Pancakes or French Toast
@@ -65,6 +68,7 @@ featured_image: '/images/demo/demo-square.jpg'
    1. Plum
    1. Oranges
    1. Green Beans
+   1. Boiled Egg
 
 ### Bangla
 
@@ -129,6 +133,9 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Mushroom Pasta](/italian-mushroom-pasta)
 1. [Feta Cheese Pasta](/pasta-feta-cheese-pasta)
 1. [Macaroni and Cheese](/pasta-macaroni-cheese)
+1. [Mushroom Gnocchi](/pasta-mushroom-gnocchi)
+1. [Asparagus Orzo](/pasta-asparagus-orzo)
+1. [Dry Pesto Pasta](/pasta-dry-pesto-pasta)
 
 ### Salad
 
@@ -144,7 +151,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Soft Tofu Mac and Cheese](/vegetarian-macaroni-cheese)
 1. [Roast Potatoes](/vegetarian-roast-potatoes)
 1. [Spaghetti Squash](/vegetarian-spaghetti-squash)
-1. [Abigail's Falafel Bowl](/vegetarian-abigails-falafel-bowl)
+1. [Abigails Falafel Bowl](/vegetarian-abigails-falafel-bowl)
 1. [Buckwheat Pilaf](/vegetarian-buckwheat-pilaf)
 1. [Grilled Zucchini](/vegetarian-grilled-zucchini)
 1. [Soba Noodles](/vegetarian-soba-noodles)
@@ -161,6 +168,16 @@ featured_image: '/images/demo/demo-square.jpg'
 ### Fish
 
 1. [Pan Seared Branzino](/fish-pan-seared-branzino)
+1. [Scallop Chive Pasta](/fish-scallop-chive-pasta)
+1. Baked Fish
+
+### Make In One Shot
+
+1. HaGow
+1. Momo
+1. Pierogies
+1. Chicken Pot Pie
+1. Pizza
 
 ### Mediterranean
 

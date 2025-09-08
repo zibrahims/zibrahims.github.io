@@ -11,7 +11,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 1. Branzino Fillet
 1. Parsley
-1. Chives
+1. Capers
 1. Lemon
 1. Butter
 1. Garlic
@@ -23,5 +23,6 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Coat branzino with corn starch while heating butter and garlic
 1. Sear both sides of the branzino fillet
 1. Squeeze lemon into leftover butter and then drizzle over finished branzino
+1. Add capers
 
 ## Modifications

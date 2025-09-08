@@ -1,6 +1,6 @@
 ---
-title: 'Abigail's Falafel Bowl'
-subtitle: 'Abigail's Falafel Bowl'
+title: 'Abigails Falafel Bowl'
+subtitle: 'Abigails Falafel Bowl'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
 ---
