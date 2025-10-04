@@ -44,15 +44,22 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Dry Pesto Pasta
 1. Chicken or Egg Salad
 1. Hot Dog (sliced or warm)
+1. Pizza
 1. Macaroni
    1. [Macaroni and Cheese](/pasta-macaroni-cheese)
    1. [Vegetarian Macaroni](/vegetarian-macaroni-cheese)
 1. Deli Sandwich
 1. Dumplings
+   1. Hagow
+   1. Momo
+   1. Pierogies
 1. Filled Bagel
 1. Egg Strips
 1. Hard Boiled Eggs
-1. Pancakes or French Toast
+1. Breakfast
+   1. Pancakes
+   1. Waffles
+   1. French Toast
 1. Wrap
    1. Chicken Quesadillas
    1. Egg Wrap
@@ -69,6 +76,10 @@ featured_image: '/images/demo/demo-square.jpg'
    1. Oranges
    1. Green Beans
    1. Boiled Egg
+   1. Olives
+   1. Cereal
+   1. Chocolate Raisins
+   1. Rice Krispy
 
 ### Bangla
 
