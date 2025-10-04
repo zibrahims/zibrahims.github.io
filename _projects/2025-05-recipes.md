@@ -28,6 +28,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Pasta](#pasta)
    * [Fish](#fish)
    * [Dumplings](#dumplings)
+   * [Misc](#misc)
 1. Condiments
    * [Sauces](#sauces)
    * [Pickling](#pickling)
@@ -104,6 +105,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Korean Stew](/jp-and-kor-korean-stew)
 1. [Soy Ramen](/jp-and-kor-soy-ramen)
 1. [Momofuku Noodles](/jp-and-kor-momofuku)
+1. Japanese Curry
 
 ### Caribbean
 
@@ -124,6 +126,7 @@ featured_image: '/images/demo/demo-square.jpg'
 ### Meat
 
 1. [Steak](/meat-steak)
+1. Chicken Adobo
 
 ### Thai
 
@@ -153,6 +156,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Terroni Oyster Mushroom Arugula](/salads-terroni-oyster-mushroom-arugula)
 1. [Arugula Shrimp](/salads-arugula-shrimp)
 1. [Tuna Salad](/salads-tuna-salad)
+1. Chicken Caesar
 
 ### Vegetarian
 
@@ -182,11 +186,14 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Scallop Chive Pasta](/fish-scallop-chive-pasta)
 1. Baked Fish
 
-### Make In One Shot
+### Dumplings
 
+1. Pierogies
 1. HaGow
 1. Momo
-1. Pierogies
+
+### Misc
+
 1. Chicken Pot Pie
 1. Pizza
 
