@@ -171,9 +171,11 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Grilled Zucchini](/vegetarian-grilled-zucchini)
 1. [Soba Noodles](/vegetarian-soba-noodles)
 
-### Sauces
+### Sauces and Spice Mix
 
 1. [Green Goddess](/sauces-green-goddess)
+1. [Creamy Chicken Sauce](/sauces-creamy-chicken)
+1. [Adobo Chicken Spice](/spices-adobo-chicken)
 
 ### Pickling
 
