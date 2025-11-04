@@ -127,6 +127,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 1. [Steak](/meat-steak)
 1. Chicken Adobo
+1. Jerk Chicken
 
 ### Thai
 
