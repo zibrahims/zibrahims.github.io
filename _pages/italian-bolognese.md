@@ -50,3 +50,9 @@ featured_image: '/images/demo/demo-square.jpg'
 1. When almost finished add the following in order:
    * Mushrooms
    * Basil
+
+## Modifications
+
+1. Hamurger Helper
+   1. Only add tomatoes and tomato paste (no pasta sauce) to beef
+   1. Mix macaroni elbows with beef, green onions and cheese
