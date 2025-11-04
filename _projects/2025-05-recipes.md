@@ -167,7 +167,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Lentil Pasta](/vegetarian-lentil-pasta)
 1. [Soft Tofu Mac and Cheese](/vegetarian-macaroni-cheese)
 1. [Roast Potatoes](/vegetarian-roast-potatoes)
-1. [Spaghetti Squash](/vegetarian-spaghetti-squash)
+1. [Spaghetti/Acorn Squash](/vegetarian-spaghetti-acorn-squash)
 1. [Abigails Falafel Bowl](/vegetarian-abigails-falafel-bowl)
 1. [Buckwheat Pilaf](/vegetarian-buckwheat-pilaf)
 1. [Grilled Zucchini](/vegetarian-grilled-zucchini)
