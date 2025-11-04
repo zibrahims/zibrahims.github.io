@@ -150,6 +150,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Mushroom Gnocchi](/pasta-mushroom-gnocchi)
 1. [Asparagus Orzo](/pasta-asparagus-orzo)
 1. [Dry Pesto Pasta](/pasta-dry-pesto-pasta)
+1. [Chicken Orzo](/pasta-chicken-orzo)
 
 ### Salad
 
