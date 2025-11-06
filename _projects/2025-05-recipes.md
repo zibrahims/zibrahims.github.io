@@ -54,6 +54,7 @@ featured_image: '/images/demo/demo-square.jpg'
    1. Hagow
    1. Momo
    1. Pierogies
+1. Cheese Melt (180F, 4 min per side)
 1. Filled Bagel
 1. Egg Strips
 1. Hard Boiled Eggs
@@ -127,7 +128,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 1. [Steak](/meat-steak)
 1. Chicken Adobo
-1. Jerk Chicken
+1. [Jerk Chicken](/meat-jerk-chicken)
 
 ### Thai
 
