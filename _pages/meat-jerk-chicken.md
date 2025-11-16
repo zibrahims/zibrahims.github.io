@@ -12,7 +12,17 @@ featured_image: '/images/demo/demo-square.jpg'
 ![ingredients](/images/recipes/bangla/bangla-dahl-01.jpg)
 
 1. Thighs or Drumsticks (skin on)
-1. Jerk Sauce
+1. Jerk Paste
+1. Browning Sauce
+1. Spices
+   1. Salt
+   1. Pepper
+   1. Thyme
+
+## Marinate
+
+1. Mix paste, browning sauce and spices
+1. Marinate for 1 hr
 
 ## Air Fryer Instructions (Thighs, 16 min)
 
