@@ -20,11 +20,6 @@ featured_image: '/images/demo/demo-square.jpg'
    * Cumin (1.5 tsp)
    * Garlic Powder (1 tsp)
    * Chilli Powder (1 tsp)
-1. Oil
-1. Optional Toppings
-   * Tomatoes or Green Mangoes
-   * Fried Onions
-   * Parsley
 
 ## Instructions
 

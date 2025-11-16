@@ -30,7 +30,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Dumplings](#dumplings)
    * [Misc](#misc)
 1. Condiments
-   * [Sauces](#sauces)
+   * [Sauces and Spice Mix](#sauces-and-spice-mix)
    * [Pickling](#pickling)
 1. Drinks
    * [Smoothies](#smoothies)
@@ -178,6 +178,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 1. [Green Goddess](/sauces-green-goddess)
 1. [Creamy Chicken Sauce](/sauces-creamy-chicken)
+1. [Rose Sauce](/sauces-rose)
 1. [Adobo Chicken Spice](/spices-adobo-chicken)
 
 ### Pickling
