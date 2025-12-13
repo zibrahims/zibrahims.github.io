@@ -10,6 +10,7 @@ featured_image: '/images/demo/demo-square.jpg'
 ## Table of Contents
 
 1. [Kids](#kids)
+1. [PC](#chef)
 1. Asia
    * [Bangla](#bangla)
    * [Thai](#thai)
@@ -82,6 +83,24 @@ featured_image: '/images/demo/demo-square.jpg'
    1. Cereal
    1. Chocolate Raisins
    1. Rice Krispy
+
+### Chef
+
+- Meal for that day
+  - Salad
+  - Difficult to prep and made for that day
+- Stretch Meals
+  - Ranna Chicken
+  - Bolognese
+  - Chickpea Tofu Curry
+- Healthy Options
+  - Tempeh
+  - Tofu
+  - Vegetarian
+- Prep work
+  - Sauces
+  - Waffles, Pancakes, etc
+- Learn techniques
 
 ### Bangla
 
