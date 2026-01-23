@@ -17,6 +17,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Chinese](#chinese)
    * [Japanese and Korean](#japanese-and-korean)
    * [Mediterranean](#mediterranean)
+   * [Singaporean](#singaporean)
 1. North American
    * [Tacos](#tacos)
    * [Caribbean](#caribbean)
@@ -116,6 +117,10 @@ featured_image: '/images/demo/demo-square.jpg'
 
 1. [Stir Fry](/chinese-stir-fry)
 1. [Beef and Broccoli](/chinese-beef-and-broccoli)
+
+### Singaporean
+
+1. [Singapore Slaw](//singaporean-slaw)
 
 ### Japanese and Korean
 

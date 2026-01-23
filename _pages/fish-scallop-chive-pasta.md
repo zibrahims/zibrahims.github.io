@@ -19,6 +19,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
+1. Defrost scallops 
 1. Coat scallops in salt and pepper
 1. While spaghetti is cooking, sear scallops in butter (2min/side fresh). Set aside.
 1. In a different pan, sautee garlic in butter and add spaghetti
