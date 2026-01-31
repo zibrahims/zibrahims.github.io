@@ -32,7 +32,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Dumplings](#dumplings)
    * [Misc](#misc)
 1. Condiments
-   * [Sauces and Spice Mix](#sauces-and-spice-mix)
+   * [Sauces and Spice Mix](#sauces-marinades-and-spice-mix)
    * [Pickling](#pickling)
 1. Drinks
    * [Smoothies](#smoothies)
@@ -87,21 +87,30 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ### Chef
 
-- Meal for that day
-  - Salad
-  - Difficult to prep and made for that day
+- Meal Plan
+  - 1x meal for that day
+  - 1x meal to finish for the week
+  - 1x meal to stretch into next week
+  - 1x single serve salad
+  - 2x Pan fried vegetables
+  - (Optional) 1x different vegetable
+  - (Optional) 1x sauce
+  - (Optional) difficult to prep and made for that day
 - Stretch Meals
   - Ranna Chicken
   - Bolognese
   - Chickpea Tofu Curry
+  - Chilli
 - Healthy Options
+  - Vegetarian
   - Tempeh
   - Tofu
-  - Vegetarian
 - Prep work
   - Sauces
   - Waffles, Pancakes, etc
 - Learn techniques
+- Successes
+  - Enchalada
 
 ### Bangla
 
@@ -198,12 +207,13 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Grilled Zucchini](/vegetarian-grilled-zucchini)
 1. [Soba Noodles](/vegetarian-soba-noodles)
 
-### Sauces and Spice Mix
+### Sauces, Marinades and Spice Mix
 
 1. [Green Goddess](/sauces-green-goddess)
 1. [Creamy Chicken Sauce](/sauces-creamy-chicken)
 1. [Rose Sauce](/sauces-rose)
 1. [Adobo Chicken Spice](/spices-adobo-chicken)
+1. [Korean Egg Marinade](/marinades-korean-eggs)
 
 ### Pickling
 
