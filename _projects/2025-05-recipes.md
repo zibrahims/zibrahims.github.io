@@ -18,6 +18,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Japanese and Korean](#japanese-and-korean)
    * [Mediterranean](#mediterranean)
    * [Singaporean](#singaporean)
+   * [Indonesian](#indonesian)
 1. North American
    * [Tacos](#tacos)
    * [Caribbean](#caribbean)
@@ -129,7 +130,11 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ### Singaporean
 
-1. [Singapore Slaw](//singaporean-slaw)
+1. [Singapore Slaw](/singaporean-slaw)
+
+### Indonesian
+
+1. [Tempeh Orek](/indonesian-tempeh-orek)
 
 ### Japanese and Korean
 
@@ -162,6 +167,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Steak](/meat-steak)
 1. [Chicken Breat](/meat-chicken-breast)
 1. [Jerk Chicken](/meat-jerk-chicken)
+1. [Chicken Piccata](/meat-chicken-piccata)
 
 ### Thai
 
