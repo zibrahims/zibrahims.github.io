@@ -11,6 +11,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 1. [Kids](#kids)
 1. [PC](#chef)
+1. [Air Fryer](#air-fryer) 
 1. Asia
    * [Bangla](#bangla)
    * [Thai](#thai)
@@ -111,7 +112,19 @@ featured_image: '/images/demo/demo-square.jpg'
   - Waffles, Pancakes, etc
 - Learn techniques
 - Successes
-  - Enchalada
+  - Ranna Chicken
+  - Chilli
+  - Chicken Picatta
+  - Chicken Parmesean
+  - Eggplant Lasagna
+  - Orek Tempeh
+
+### Air Fryer
+
+1. Fast Food: Burgers and Fries (air fry)
+1. [Miso Cod](/air-fryer-miso-cod)
+1. [Chicken Wings](/air-fryer-chicken-wings)
+1. [Nachos](air-fryer-nachos)
 
 ### Bangla
 
@@ -216,6 +229,7 @@ featured_image: '/images/demo/demo-square.jpg'
 ### Sauces, Marinades and Spice Mix
 
 1. [Green Goddess](/sauces-green-goddess)
+1. [Burrito Sauce](/sauces-burrito-sauce)
 1. [Creamy Chicken Sauce](/sauces-creamy-chicken)
 1. [Rose Sauce](/sauces-rose)
 1. [Adobo Chicken Spice](/spices-adobo-chicken)

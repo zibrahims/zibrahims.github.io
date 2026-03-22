@@ -23,6 +23,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
+1. Boil eggs for 7 min and then chill in ice water before peeling
 1. Mix and add water to raise level
 1. Marinate eggs for 48 hrs max
 1. Add paper towel on top if eggs stick out
