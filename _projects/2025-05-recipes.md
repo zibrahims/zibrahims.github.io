@@ -225,6 +225,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Buckwheat Pilaf](/vegetarian-buckwheat-pilaf)
 1. [Grilled Zucchini](/vegetarian-grilled-zucchini)
 1. [Soba Noodles](/vegetarian-soba-noodles)
+1. [Chilli](/vegetarian-chilli)
 
 ### Sauces, Marinades and Spice Mix
 

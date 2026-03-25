@@ -7,25 +7,38 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
-Meat protein breaks down at 165 degrees and connective tissue (collagen) breaks down at 195F.
-
-It's usually the collagen that gives a moise BBQ flavour. So we need to retain moisture (using butter)
-
 ## Ingredients
 
-![ingredients](./photos/NorthAmerican01Steak-01.jpg)
+![ingredients](/images/recipes/bangla/bangla-dahl-01.jpg)
 
-1. Steak
-1. Kosher Salt + Peppercorns
-1. Butter
+1. Steak (wagyu preferred for novelty)
+1. Temperature probe
+1. Ponzu
+   * daikon
+   * thai chilli
+   * green onions
+   * mirin
+   * soy sauce
 
 ## Instructions
 
-1. Spice the steak
-1. Grill it on a frying pan 
-   1. Using tongs put a slab of butter against the meat
-   1. Cook with butter (flipping steak), until done
+1. Grill in cast iron pan to develop crust
+1. Turn steak often (every 30s) to avoid greying
+1. Put in oven (180C), flip every 2 min and allow internal to heat and take out until internal temperature is:
+   * Rare: 45C
+   * Medium-Rare: 48C
+   * Medium: 51C
+   * Medium-well: 56C
+   * Well: 70C
 
-## 
+## Modifications
 
-https://www.youtube.com/watch?v=2QzYcyurEjw&ab_channel=BabishCulinaryUniverse
+1. Wagyu Steak
+   * Leave out 30 min to reach room temp
+   * Use steak cap as the cooking oil
+   * Grill to form a crust and internal temperature is reached (see above)
+   * Slice thinly and dip in ponzu
+1. Ponzu
+   * slot daikon to put in chilli and grate
+   * slice green onion and reduce with water
+   * mix soy sauce, mirin, chilli and green onion
