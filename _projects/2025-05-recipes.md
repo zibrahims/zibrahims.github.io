@@ -181,6 +181,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Chicken Breat](/meat-chicken-breast)
 1. [Jerk Chicken](/meat-jerk-chicken)
 1. [Chicken Piccata](/meat-chicken-piccata)
+1. [Chicken Kebab](/meat-chicken-kebab)
 
 ### Thai
 
