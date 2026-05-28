@@ -212,7 +212,8 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Terroni Oyster Mushroom Arugula](/salads-terroni-oyster-mushroom-arugula)
 1. [Arugula Shrimp](/salads-arugula-shrimp)
 1. [Tuna Salad](/salads-tuna-salad)
-1. Chicken Caesar
+1. Grilled Chicken Caesar (+ Julienne Carrots)
+1. Chilli Bean and Celery Salad
 
 ### Vegetarian
 
@@ -227,6 +228,11 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Grilled Zucchini](/vegetarian-grilled-zucchini)
 1. [Soba Noodles](/vegetarian-soba-noodles)
 1. [Chilli](/vegetarian-chilli)
+1. Juliened Bowls (add: boiled eggs)
+    1. Medeterranian: Quinoa + Spinach + Lemons
+    1. Southern: Chicken fingers + potatoes + pickles + slaw
+    1. Mexican: Lettuce + Beans + Rice
+    1. Continental: Chickpeas + Faro/Bulgur + Roasted Red Peppers
 
 ### Sauces, Marinades and Spice Mix
 
@@ -247,6 +253,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. [Pan Seared Branzino](/fish-pan-seared-branzino)
 1. [Scallop Chive Pasta](/fish-scallop-chive-pasta)
 1. Baked Fish
+1. [Sesame Crusted Tuna Steak](/fish-sesame-crusted-tuna-steak)
 
 ### Dumplings
 
