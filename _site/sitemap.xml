@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2026-05-27T20:10:30-04:00</lastmod>
+<lastmod>2026-07-31T19:53:33-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/air-fryer-chicken-wings</loc>
@@ -46,11 +46,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/career-sw-ide-settings</loc>
-<lastmod>2026-05-27T20:10:30-04:00</lastmod>
+<lastmod>2026-07-31T19:53:33-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/career-swe-new-installs</loc>
-<lastmod>2026-05-27T20:10:30-04:00</lastmod>
+<lastmod>2026-07-31T19:53:33-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/caribbean-jerk-shrimp-pasta</loc>
@@ -62,6 +62,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/chinese-beef-and-broccoli</loc>
+<lastmod>2018-06-29T20:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/chinese-mapo-tofu</loc>
 <lastmod>2018-06-29T20:00:00-04:00</lastmod>
 </url>
 <url>
@@ -82,7 +86,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/contact</loc>
-<lastmod>2026-05-27T20:10:30-04:00</lastmod>
+<lastmod>2026-07-31T19:53:33-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/dessert-poffertjes</loc>
@@ -210,7 +214,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/recipes-to-do</loc>
-<lastmod>2026-05-27T20:10:30-04:00</lastmod>
+<lastmod>2026-07-31T19:53:33-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/salads-arugula-shrimp</loc>
@@ -286,7 +290,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/thanks</loc>
-<lastmod>2026-05-27T20:10:30-04:00</lastmod>
+<lastmod>2026-07-31T19:53:33-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tofu-cumin-tofu-tacos</loc>

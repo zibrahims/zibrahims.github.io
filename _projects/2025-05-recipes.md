@@ -140,6 +140,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 1. [Stir Fry](/chinese-stir-fry)
 1. [Beef and Broccoli](/chinese-beef-and-broccoli)
+1. [Mapo Tofu](/chinese-mapo-tofu)
 
 ### Singaporean
 

@@ -1,5 +1,5 @@
 ---
-title: 'Bolognese'
+title: 'Long Simmered Browned Bolognese'
 subtitle: 'Bolognese'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
@@ -37,7 +37,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Cook all of the vegetables in a pot, in the following order:
    * Carrots/Celery
    * Onions
-1. In a separate pan, cook the ground meat until deep brown
+1. In a separate pan, cook the ground meat until deep brown*
 1. Boil the pasta and when finishing
    * Save at least 1 cup of the past water
    * Toss the cooked pasta in oil to avoid sticking
@@ -50,6 +50,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. When almost finished add the following in order:
    * Mushrooms
    * Basil
+1. For best results simmer for 1-2 hrs at low heat!
 
 ## Modifications
 
