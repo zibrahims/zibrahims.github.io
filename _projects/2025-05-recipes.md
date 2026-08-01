@@ -20,6 +20,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Mediterranean](#mediterranean)
    * [Singaporean](#singaporean)
    * [Indonesian](#indonesian)
+   * [Flipino](#filipino)
 1. North American
    * [Tacos](#tacos)
    * [Caribbean](#caribbean)
@@ -149,6 +150,10 @@ featured_image: '/images/demo/demo-square.jpg'
 ### Indonesian
 
 1. [Tempeh Orek](/indonesian-tempeh-orek)
+
+### Filipino
+
+1. [Adobo Chicken](/filipino-adobo-chicken)
 
 ### Japanese and Korean
 

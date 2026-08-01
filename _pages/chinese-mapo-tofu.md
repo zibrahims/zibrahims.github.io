@@ -34,9 +34,9 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Instructions
 
-1. Cut tofu and green onions
+1. Cut tofu, mushrooms and green onions
 1. Optional (on the side): brown ground meat
-1. Heat green onions, ginger and bean paste
+1. Heat green onions, mushrooms, ginger and bean paste
 1. Reduce with red wine
 2. Optional: add peppercorn and heat for 5 min do not burn
 1. Add water and/or broth
