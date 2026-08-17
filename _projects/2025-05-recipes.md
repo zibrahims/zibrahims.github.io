@@ -39,8 +39,10 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Pickling](#pickling)
 1. Drinks
    * [Smoothies](#smoothies)
+   * [Social](#social)
 1. Desserts
    * [Cakes](#cakes)
+   
 
 
 ### Kids
@@ -283,6 +285,10 @@ featured_image: '/images/demo/demo-square.jpg'
 ### Cakes
 
 1. [Poffertjes](/dessert-poffertjes)
+
+### Social
+
+1. [Sangria](/social-sangria)
 
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:

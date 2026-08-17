@@ -28,18 +28,19 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Slice tofu and press dry over 20 min
 1. Shred tofu into long pieces and marinate for at least 20 min
    * Olive Oil
-   * Cumin
-   * Salt
-   * Paprika
-1. Bake tofu at 350F for 30min
+   * Soy Sauce (2 tablespoons)
+   * Cumin (2 teaspoons)
+   * Salt (1 teaspoon)
+   * Paprika (1 teaspoon)
+1. Bake tofu for texture at 350F for 30min (flipping halfway to cook underside)
 1. Cook sauce and **deglaze halfway**
-   * Red Onion (large enough to form base)
-   * Tomato Paste
-   * Garlic
-   * Cumin
-   * Paprika + Chilli powder
-1. Mix the tofu and sauce. 
-   * Tofu should not be soggy and hard, but not burned
+   * Red Onion cut long (large enough to form base)
+   * Tomato Paste (2 tablespoons)
+   * Garlic (3 cloves)
+   * Cumin (1 teaspoon)
+   * Paprika (1 teaspoon) + Chilli powder (1/2 teaspoon)
+1. Remove the tofu from the oven when there are no more soft parts. Do not broil/crisp!
+1. Mix the tofu and sauce on low medium simmer heat
    * Must have enough onions for the sauce to cover the tofu
    * Most of the dish is just flavoured onions
 
