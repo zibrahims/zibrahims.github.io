@@ -5,3 +5,5 @@
 3. Spaghetti Squash
 4. Creamy Mushroom Gnocchi
 5. Ranna Beef
+6. Seafood rose rigatoni with chives + parmesean
+7. Chives + parmesean fries

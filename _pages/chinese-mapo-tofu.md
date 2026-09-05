@@ -15,12 +15,12 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Hearty Shitake Mushrooms
 1. Whole Green Onions
 1. Garlic
-1. Sichuan or spicy bean paste
+1. Sichuan or spicy bean paste (2 tbsp)
 1. Spices
-   * Garlic (3 tsp)
-   * Ginger (3 tsp)
+   * Garlic (1 tbsp)
+   * Ginger (1/2 cube)
    * Five Spice
-   * Suga (1/4 tsp)
+   * Sugar (1/4 tsp)
    * Chillis
 1. Red wine
 1. 1/4 water (3/4 cup if no broth)
@@ -36,12 +36,13 @@ featured_image: '/images/demo/demo-square.jpg'
 
 1. Cut tofu, mushrooms and green onions
 1. Optional (on the side): brown ground meat
-1. Heat green onions, mushrooms, ginger and bean paste
+1. Heat green onions, mushrooms, garlic and bean paste
 1. Reduce with red wine
-2. Optional: add peppercorn and heat for 5 min do not burn
-1. Add water and/or broth
+1. Add water (or broth) and ginger
 1. Add tofu cook (hard tofu should be seared in the pan)
 1. Add sugar and 5 spice
 1. Finish by adding cornstarch slurry to thicken
 
 ## Modifications
+
+1. Optional: after wine, add peppercorn and heat for 5 min do not burn

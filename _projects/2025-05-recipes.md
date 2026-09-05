@@ -10,6 +10,7 @@ featured_image: '/images/demo/demo-square.jpg'
 ## Table of Contents
 
 1. [Kids](#kids)
+1. [Chef](#chef)
 1. [PC](#chef)
 1. [Air Fryer](#air-fryer) 
 1. Asia
@@ -57,7 +58,7 @@ featured_image: '/images/demo/demo-square.jpg'
    1. [Macaroni and Cheese](/pasta-macaroni-cheese)
    1. [Vegetarian Macaroni](/vegetarian-macaroni-cheese)
 1. Deli Sandwich
-1. Dumplings
+1. Dumplings in Thermos
    1. Hagow
    1. Momo
    1. Pierogies
@@ -65,15 +66,12 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Filled Bagel
 1. Egg Strips
 1. Hard Boiled Eggs
-1. Breakfast
-   1. Pancakes
-   1. Waffles
-   1. French Toast
 1. Wrap
    1. Chicken Quesadillas
    1. Egg Wrap
    1. Vegetable Wrap
 1. Snacks
+   1. Crackers 
    1. Edamame
    1. Dragonfruit
    1. Berries and Cherries
@@ -96,24 +94,16 @@ featured_image: '/images/demo/demo-square.jpg'
   - 1x meal for that day
   - 1x meal to finish for the week
   - 1x meal to stretch into next week
-  - 1x single serve salad
-  - 2x Pan fried vegetables
-  - (Optional) 1x different vegetable
+  - 3x Pan fried vegetables
   - (Optional) 1x sauce
-  - (Optional) difficult to prep and made for that day
-- Stretch Meals
-  - Ranna Chicken
+  - (Optional) prep (mushrooms, garnish)
+  - (Optional) bake
+- Meal Ideas
+  - Chicken (Ranna, Breast, Thighs)
   - Bolognese
-  - Chickpea Tofu Curry
-  - Chilli
-- Healthy Options
-  - Vegetarian
-  - Tempeh
-  - Tofu
-- Prep work
-  - Sauces
-  - Waffles, Pancakes, etc
-- Learn techniques
+  - Vegetarian Curry (Chickpea, Lentil, Chilli)
+  - Tofu (Mapo, Shredded)
+  - Tempeh (Orek)
 - Successes
   - Ranna Chicken
   - Chilli
@@ -121,6 +111,9 @@ featured_image: '/images/demo/demo-square.jpg'
   - Chicken Parmesean
   - Eggplant Lasagna
   - Orek Tempeh
+  - Shredded Tofu
+  - Vegetarian Curries
+  - Kebabs
 
 ### Air Fryer
 
