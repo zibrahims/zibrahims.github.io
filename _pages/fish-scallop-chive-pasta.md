@@ -12,17 +12,20 @@ featured_image: '/images/demo/demo-square.jpg'
 ![ingredients](/images/recipes/bangla/bangla-dahl-01.jpg)
 
 1. Scallops (5x per person)
-1. Chives
 1. Garlic
 1. Butter
+1. Flour and Room Temp Whole Milk
 1. Spaghetti
 
 ## Instructions
 
-1. Defrost scallops 
-1. Coat scallops in salt and pepper
-1. While spaghetti is cooking, sear scallops in butter (2min/side fresh). Set aside.
-1. In a different pan, sautee garlic in butter and add spaghetti
-1. Add scallops and chives on top and mix
+1. Defrost scallops (min. 8 hrs)
+1. Wipe water away from top of scallop and coat with salt and pepper
+1. While spaghetti is cooking, in a big pan sear scallops in butter (2min/side fresh)
+1. In a smaller pan, sautee garlic in butter, add room-temp whole milk and add spaghetti
+1. Add spaghetti into big pan of scallops
+1. Add chives on top and mix
 
 ## Modifications
+
+1. Ensure scallops are cooked through by also cooking the sides
