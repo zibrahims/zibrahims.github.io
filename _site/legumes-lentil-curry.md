@@ -27,7 +27,7 @@ featured_image: '/images/demo/demo-square.jpg'
 1. Toast almond flour and shredded coconut for 3-4 min
 1. Sautee onions, half of the salt, garlic and ginger until brown
 1. Add jerk spices until fragrant and almost a paste
-1. Mix blended tomatoes or paste, and then mint/coriander/water
+1. Mix blended tomatoes or paste, and then soy sauce/mint/coriander/water
 1. Add the coconut milk (jerk) / yogurt (curry) and boil (curry) or turn into paste (jerk)
 1. Add last half of salt
 1. Cook on high until all the water has almost evaporated
