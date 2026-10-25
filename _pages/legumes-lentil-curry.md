@@ -1,4 +1,4 @@
----[lentil-curry.md](../../../../../Users/nsibrahim/Downloads/lentil-curry.md)
+---
 title: 'Lentil Curry'
 subtitle: 'Lentil Curry'
 date: 2018-06-30 00:00:00

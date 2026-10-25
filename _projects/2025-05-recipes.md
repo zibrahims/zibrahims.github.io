@@ -27,6 +27,7 @@ featured_image: '/images/demo/demo-square.jpg'
    * [Caribbean](#caribbean)
 1. Plant Based
    * [Tofu and Tempeh](#tofu-and-tempeh)
+   * [Beans and Lentils](#beans-and-lentils)
    * [Vegetarian](#vegetarian)
 1. Contemporary
    * [Meat](#meat)
