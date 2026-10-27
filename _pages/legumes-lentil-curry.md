@@ -23,15 +23,18 @@ featured_image: '/images/demo/demo-square.jpg'
 ## Instructions 
 
 1. Lentils
-   * Cook over 10 min or soak overnight
+   * Soak overnight or cook over 10 min 
 1. Toast almond flour and shredded coconut for 3-4 min
 1. Sautee onions, half of the salt, garlic and ginger until brown
-1. Add jerk spices until fragrant and almost a paste
-1. Mix blended tomatoes or paste, and then soy sauce/mint/coriander/water
+1. Curry type
+   1. Jerk: add spices until fragrant and almost a paste
+   1. Lentil
+      1. Add spices (broken cardomom, garam, menthi, chilli powder, green chilli, black pepper)
+      1. Mix blended tomatoes or paste, and then soy sauce/mint/coriander/water
 1. Add the coconut milk (jerk) / yogurt (curry) and boil (curry) or turn into paste (jerk)
 1. Add last half of salt
-1. Cook on high until all the water has almost evaporated
-1. Add overnight lentils or cook them in
+1. Add 1 cup water and cook on high until all the water has almost evaporated
+1. Add overnight lentils or cook them in for 10 min
    * If too hard, add more water and set to simmer
 
 ![onions](/images/recipes/legumes/legumes-lentil-curry-02.jpg)
